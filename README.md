@@ -29,3 +29,12 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 2. Navigation: Shows how users will move through the site or application.
 3. Content Placement: Indicates where text, images, and other content will be positioned.
 4. Functionality: Outlines key functionalities and interactions.
+
+## Types of Wireframes
+
+1. Low-Fidelity Wireframes: Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
+2. High-Fidelity Wireframes: More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
+
+## The type of wire frame provided
+
+The type of wireframe provided in the alx link is High-Fidelity Wireframe bc it shows detail and refined version.
