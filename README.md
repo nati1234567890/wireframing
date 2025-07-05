@@ -38,3 +38,47 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 ## The type of wire frame provided
 
 The type of wireframe provided in the alx link is High-Fidelity Wireframe bc it shows detail and refined version.
+
+## Popular wireframing tools
+
+### Figma: The Ultimate Tool for Wireframing & Prototyping
+
+Figma is a cloud-based design tool that excels in wireframing, prototyping, and collaborative UI/UX design. It’s widely used by designers, developers, and product teams for its intuitive interface and real-time collaboration features.
+
+### Key Features of Figma for Wireframing
+
+1. Real-Time Collaboration
+
+Multiple users can edit designs simultaneously (like Google Docs for design).
+
+Great for team feedback and brainstorming.
+
+2. Component-Based Design
+
+Create reusable UI elements (buttons, headers) for consistency.
+
+Update one component, and changes apply everywhere (design systems).
+
+3. Interactive Prototyping
+
+Turn wireframes into clickable prototypes with transitions and animations.
+
+Simulate user flows without coding.
+
+4. Cloud-Based & Cross-Platform
+
+Works on Windows, macOS, and Linux (no installation needed).
+
+Auto-saves to the cloud—no risk of losing work.
+
+5. Plugins & Integrations
+
+Extend functionality with plugins (e.g., UI kits, icons, accessibility checkers).
+
+Integrates with Slack, Jira, and GitHub for seamless workflows.
+
+6. Developer Handoff
+
+Generates CSS, Swift, or Android XML code snippets for developers.
+
+Inspect tool for pixel-perfect measurements.
